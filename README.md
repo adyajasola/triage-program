@@ -1,16 +1,32 @@
-# Triage Program
+# Welcome to My First Python Project!
 
-Welcome to my very first Python project!
-This program is a fun and educational Emergency Room (ER) triage simulation where users interact with animated doctors and nurses, enter their emergency details, and play a mini-game while they wait for help.
+This program is a fun and educational **Emergency Room (ER) triage simulation** where users interact with animated doctors and nurses, enter their emergency details, and play a mini-game while they wait for help.
+
 ---
 
-## How the Program Works
+## 🏥 What the Program Does
 
-1. The user enters their **name**.  
-2. They choose an **emergency category** shown on the screen.  
-3. The program assigns a **waiting time** based on that category.  
-4. During the waiting time, the user plays a mini-game where they **click germs to eliminate them**.  
-5. The program shows doctor and nurse animations throughout the interaction.
+This project simulates a simple **hospital triage system** using Python.  
+The user follows these steps:
+
+1. Enters their **name**
+2. Selects their **emergency category**
+3. Gets an assigned **waiting time** based on the category
+4. Plays a mini-game called **“Kill the Germs!”** during the waiting period
+
+---
+
+## 🎨 Visual Elements Included
+
+The program uses several animations and graphics, such as:
+
+- 🧑‍⚕️ Doctor animations  
+- 👩‍⚕️ Nurse animations  
+- 🦠 Germ sprites  
+- 🏥 Hospital rooms and scenes  
+
+---
+
 
 ---
 
